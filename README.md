@@ -30,7 +30,7 @@ Down to build cool things, and finish the messy ones already in production.
 - **Dispatch 9ja** - user sends a package, rider picks it up
 - **Glover** - user, driver, vendor. Parcel-first, plus food / grocery
 - **Tenants** - rent, bills, leases, KYC. Reenato, not live yet
-- Learning backend on [Boot.dev](https://www.boot.dev/)
+- Learning backend on [Boot.dev](https://www.boot.dev/). My [Profile](https://www.boot.dev/u/sen_ryuk) 
 
 ---
 
